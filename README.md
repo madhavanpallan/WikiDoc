@@ -1,4 +1,4 @@
-# WikiDocs - A dataset of Wikipedia as a consumable format of Wikipedia pages for
+# WikiDocs - A dataset of Wikipedia as a consumable format of Wikipedia pages for NLP Projects.
 
 Introduction:- Wikipedia is one of the major free online encyclopedia and is created and edited by volunteers around the world and hosted by the Wikimedia Foundation. The corpora provided by Wikipedia is of significant use for the general research
 population in various domains of natural lanaguage processing. Chatbots are no stranger to data required for better modelling. Here we make available a Wikipedia corpus, which can be used for strong Natural language processing projects.The documents are in general available as definition and brief elaboration of the topic in question.
@@ -11,3 +11,6 @@ Link to the Presentation:- https://drive.google.com/file/d/1rgUOQHLdzYI7nqr9x4es
 Link to the Dataset:- https://drive.google.com/file/d/15OaFfMYA_pvaiSSxWyLAljt-_0aWWig2/view?usp=sharing
 
 Feel free to send email to the author for any queries and suggestions at (madhpallan@gmail.com)
+
+In Proceedings of Competition Track of Workshop W-19 Reasoning and Learning for Human-Machine Dialogues (DEEP-DIAL20) of the Thirtieth Conference on Association for the Advancement of Artificial Intelligence at AAAI Conference, 2020.
+Feel free to reach out for feedback, queries and suggestions to authors (Email:madhpallan@gmail.com).
