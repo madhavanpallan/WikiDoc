@@ -9,3 +9,5 @@ Link to the paper :- https://drive.google.com/file/d/1zlY8KGN0Fu00_WvWtul34C1wD4
 Link to the Presentation:- https://drive.google.com/file/d/1rgUOQHLdzYI7nqr9x4es_hgcDED5RpA9/view?usp=sharing
 
 Link to the Dataset:- https://drive.google.com/file/d/15OaFfMYA_pvaiSSxWyLAljt-_0aWWig2/view?usp=sharing
+
+Feel free to send email to the author for any queries and suggestions at (madhpallan@gmail.com)
